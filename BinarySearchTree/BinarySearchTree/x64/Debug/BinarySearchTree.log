@@ -1,0 +1,3 @@
+﻿  BinarySearchTree.cpp
+C:\Users\ja-kn\Desktop\VirtualStudio\BinarySearchTree\BinarySearchTree\BinarySearchTree.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+  BinarySearchTree.vcxproj -> C:\Users\ja-kn\Desktop\VirtualStudio\BinarySearchTree\x64\Debug\BinarySearchTree.exe
